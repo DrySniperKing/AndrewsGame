@@ -13,7 +13,7 @@ import javax.swing.JFrame;
 
 public class Game extends Canvas implements Runnable {
 	
-	
+	//Test for gitts
     // No Idea :?
 	private static final long serialVersionUID = 1L;
 	
